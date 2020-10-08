@@ -1,0 +1,14 @@
+<application>
+  <component name="PyPackageService">
+    <option name="sdkToUsersite">
+      <map>
+        <entry key="C:\Users\User\AppData\Local\Programs\Python\Python37-32\pythonw.exe" value="true" />
+      </map>
+    </option>
+    <option name="additionalRepositories">
+      <list>
+        <option value="C:\Users\User\AppData\Local\Programs\Python\Python37-32\pythonw.exe/" />
+      </list>
+    </option>
+  </component>
+</application>

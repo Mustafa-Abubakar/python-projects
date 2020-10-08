@@ -1,0 +1,8 @@
+Math: 98
+Pyrhon: 100
+Arabic: 100
+Computer: 96
+English: 96
+FIT: 92
+The total result is : 582
+And the Average is : 97.0

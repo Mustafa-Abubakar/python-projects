@@ -1,0 +1,31 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1280.800" x="643" y="344" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1280.800" x="335" y="202" />
+    <location key="FileChooserDialogImpl.0.0.1280.800" x="420" y="133" />
+    <location key="SettingsEditor.0.0.1280.800" x="0" y="0" />
+    <location key="org.intellij.images.editor.actions.BackgroundImageDialog.0.0.1280.800" x="405" y="249" />
+    <location key="SettingsEditor.0.0.1280.800@168dpi" x="126" y="23" />
+    <location key="SettingsEditor.0.0.1280.800@120dpi" x="0" y="0" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.800" x="431" y="182" />
+    <location key="#linked_Queue.0.0.1280.800" x="423" y="10" />
+    <location key="#xdebugger.evaluate.0.0.1280.800" x="527" y="131" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.800" x="94" y="36" />
+    <location key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1.0.0.1280.800" x="210" y="111" />
+    <location key="#Inspections.0.0.1280.800" x="272" y="60" />
+    <location key="ProcessPopupWindow.0.0.1280.800" x="878" y="528" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1280.800" x="362" y="297" />
+    <location key="CommitChangelistDialog2.0.0.1280.800" x="264" y="0" />
+    <size key="GridCell.Tab.0.left.0.0.1280.800" width="1260" height="329" />
+    <size key="GridCell.Tab.0.center.0.0.1280.800" width="1260" height="329" />
+    <size key="GridCell.Tab.0.right.0.0.1280.800" width="1260" height="329" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.800" width="1260" height="329" />
+    <size key="org.intellij.images.editor.actions.BackgroundImageDialog.0.0.1280.800" width="668" height="310" />
+    <size key="GridCell.Tab.1.left.0.0.1280.800" width="1260" height="478" />
+    <size key="GridCell.Tab.1.center.0.0.1280.800" width="1260" height="478" />
+    <size key="GridCell.Tab.1.right.0.0.1280.800" width="1260" height="478" />
+    <size key="GridCell.Tab.1.bottom.0.0.1280.800" width="1260" height="478" />
+    <size key="ProcessPopupWindow.0.0.1280.800" width="400" height="254" />
+    <size key="javadoc.popup.0.0.1280.800" width="600" height="424" />
+  </component>
+</application>

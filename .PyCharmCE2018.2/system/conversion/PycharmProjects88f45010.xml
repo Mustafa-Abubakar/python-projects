@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\User\PycharmProjects\.idea\PycharmProjects.iml" timestamp="1575725501951" />
+    <file path="C:\Users\User\PycharmProjects\.idea\misc.xml" timestamp="1575725502107" />
+    <file path="C:\Users\User\PycharmProjects\.idea\modules.xml" timestamp="1575724163972" />
+    <file path="C:\Users\User\PycharmProjects\.idea\workspace.xml" timestamp="1575729878675" />
+  </project-files>
+</conversion>
+

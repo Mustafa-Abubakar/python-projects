@@ -1,0 +1,104 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Ascad1" />
+        <option value="$USER_HOME$/Ascad" />
+        <option value="$USER_HOME$/testing" />
+        <option value="$USER_HOME$/Mus" />
+        <option value="$USER_HOME$/me" />
+        <option value="$USER_HOME$/a" />
+        <option value="$USER_HOME$/PycharmProjects" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Ascad1" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Ascad1" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Ascad">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-182.4129.34" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1578559165659" />
+              <option name="buildTimestamp" value="1534844390914" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Ascad1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-182.4129.34" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1578559166347" />
+              <option name="buildTimestamp" value="1534844390914" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Mus">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-182.4129.34" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1577953737171" />
+              <option name="buildTimestamp" value="1534844370935" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-182.4129.34" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576041581067" />
+              <option name="buildTimestamp" value="1534844350057" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/a">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-182.4129.34" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576042669120" />
+              <option name="buildTimestamp" value="1534844350057" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/me">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-182.4129.34" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1577351665726" />
+              <option name="buildTimestamp" value="1534844379203" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/testing">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-182.4129.34" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1578235396345" />
+              <option name="buildTimestamp" value="1534844395320" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>

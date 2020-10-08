@@ -1,0 +1,382 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="1" />
+      <entry action="$Cut" count="3" />
+      <entry action="$Delete" count="15" />
+      <entry action="$Paste" count="1" />
+      <entry action="$SelectAll" count="24" />
+      <entry action="$Undo" count="204" />
+      <entry action="About" count="1" />
+      <entry action="AutoShowProcessWindow" count="1" />
+      <entry action="Back" count="1" />
+      <entry action="ChangeColorScheme" count="1" />
+      <entry action="ChangeFileEncodingAction" count="1" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="CloseContent" count="11" />
+      <entry action="CommentByLineComment" count="5" />
+      <entry action="ConfigureIcs" count="2" />
+      <entry action="CreateRunConfiguration" count="7" />
+      <entry action="CreateSetupPy" count="1" />
+      <entry action="Cvs.Import" count="1" />
+      <entry action="DebugClass" count="6" />
+      <entry action="DialogOkAction Enter" count="38" />
+      <entry action="EditorBackSpace" count="4739" />
+      <entry action="EditorChooseLookupItem" count="248" />
+      <entry action="EditorCopy" count="82" />
+      <entry action="EditorCut" count="5" />
+      <entry action="EditorDelete" count="13" />
+      <entry action="EditorDeleteLine" count="9" />
+      <entry action="EditorDeleteToWordStart" count="2" />
+      <entry action="EditorDown" count="611" />
+      <entry action="EditorDuplicate" count="1" />
+      <entry action="EditorEnter" count="711" />
+      <entry action="EditorLeft" count="778" />
+      <entry action="EditorLeftWithSelection" count="1" />
+      <entry action="EditorLineEnd" count="1" />
+      <entry action="EditorLineStart" count="2" />
+      <entry action="EditorPageUp" count="1" />
+      <entry action="EditorPaste" count="116" />
+      <entry action="EditorRight" count="1183" />
+      <entry action="EditorSetLtrBidiTextDirection" count="1" />
+      <entry action="EditorStartNewLine" count="4" />
+      <entry action="EditorTab" count="1" />
+      <entry action="EditorToggleColumnMode" count="1" />
+      <entry action="EditorToggleInsertState" count="6" />
+      <entry action="EditorUp" count="825" />
+      <entry action="EvaluateExpression" count="2" />
+      <entry action="Exit" count="1" />
+      <entry action="ExpressionTypeInfo" count="1" />
+      <entry action="Forward" count="1" />
+      <entry action="GotoBookmark3" count="2" />
+      <entry action="GotoClass" count="4" />
+      <entry action="GotoSuperMethod" count="1" />
+      <entry action="HideAllWindows" count="3" />
+      <entry action="ImportSettings" count="6" />
+      <entry action="InvalidateCaches" count="1" />
+      <entry action="JumpToLastWindow" count="1" />
+      <entry action="LocalHistory.PutLabel" count="1" />
+      <entry action="NewDirectoryProject" count="7" />
+      <entry action="NewElement" count="19" />
+      <entry action="NewFile" count="5" />
+      <entry action="NewPythonFile" count="34" />
+      <entry action="NewPythonPackage" count="1" />
+      <entry action="NewScratchFile" count="6" />
+      <entry action="OnlineDocAction" count="1" />
+      <entry action="OpenFile" count="9" />
+      <entry action="Pause" count="1" />
+      <entry action="PreviousOccurence" count="1" />
+      <entry action="Print" count="1" />
+      <entry action="PyRunFileInConsole" count="2" />
+      <entry action="QuickChangeScheme" count="1" />
+      <entry action="QuickImplementations" count="2" />
+      <entry action="RenameFile" count="1" />
+      <entry action="Rerun" count="28" />
+      <entry action="RestoreDefaultLayout" count="1" />
+      <entry action="Resume" count="1" />
+      <entry action="Run" count="82" />
+      <entry action="RunClass" count="241" />
+      <entry action="SaveAll" count="3" />
+      <entry action="SearchEverywhere" count="1" />
+      <entry action="ShowPopupMenu" count="4" />
+      <entry action="ShowProcessWindow" count="1" />
+      <entry action="ShowSettings" count="20" />
+      <entry action="SplitHorizontally" count="1" />
+      <entry action="SplitVertically" count="1" />
+      <entry action="Start.Use.Vcs" count="1" />
+      <entry action="StartStopMacroRecording" count="2" />
+      <entry action="StepOver" count="9" />
+      <entry action="Stop" count="3" />
+      <entry action="TemplateProjectProperties" count="4" />
+      <entry action="Terminal.OpenInTerminal" count="2" />
+      <entry action="ToggleBookmark" count="5" />
+      <entry action="ToggleBookmarkWithMnemonic" count="2" />
+      <entry action="ToggleDistractionFreeMode" count="2" />
+      <entry action="ToggleFullScreen" count="2" />
+      <entry action="ToggleLineBreakpoint" count="11" />
+      <entry action="TogglePresentationMode" count="2" />
+      <entry action="ToggleReadOnlyAttribute" count="1" />
+      <entry action="Vcs.QuickListPopupAction" count="1" />
+      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="XDebugger.NewWatch" count="1" />
+      <entry action="editRunConfigurations" count="8" />
+      <entry action="tooltip.actions.show.description.morelink" count="1" />
+      <entry action="tooltip.actions.show.description.shortcut" count="2" />
+    </counts>
+  </component>
+  <component name="FUSApplicationUsageTrigger">
+    <session id="655482535">
+      <usages-collector id="statistics.lifecycle.app">
+        <counts>
+          <entry key="ide.close" value="19" />
+          <entry key="ide.error" value="14" />
+          <entry key="ide.freeze.12" value="1" />
+          <entry key="ide.freeze.14" value="2" />
+          <entry key="ide.freeze.15" value="7" />
+          <entry key="ide.freeze.16" value="4" />
+          <entry key="ide.freeze.17" value="3" />
+          <entry key="ide.freeze.18" value="2" />
+          <entry key="ide.freeze.19" value="2" />
+          <entry key="ide.freeze.20" value="2" />
+          <entry key="ide.freeze.21" value="1" />
+          <entry key="ide.freeze.24" value="2" />
+          <entry key="ide.freeze.7" value="4" />
+          <entry key="ide.start" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1575724113060" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.camelHumps" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="5" last-shown="0" last-used="1578493881990" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="1" last-shown="0" last-used="1578144438111" shown-count="0" />
+    <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="0" last-shown="1578558408649" last-used="0" shown-count="4843" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="1" last-shown="0" last-used="1577952521038" shown-count="0" />
+    <feature id="SearchEverywhere" count="1" last-shown="0" last-used="1577452588082" shown-count="0" />
+    <feature id="navigation.popup.class" count="4" last-shown="0" last-used="1578046240124" shown-count="0" />
+    <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="2" last-shown="0" last-used="1577954399666" shown-count="0" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="278" last-shown="0" last-used="1578558411527" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="159" last-shown="0" last-used="1578559080168" shown-count="0" />
+    <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="1" last-shown="0" last-used="1577954550897" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="1117" />
+      <option name="invocations" value="257" />
+      <option name="startDate" value="1575666000000" />
+      <option name="dayCount" value="13" />
+      <option name="lastDate" value="1578517200000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="0" />
+      <option name="startDate" value="0" />
+      <option name="dayCount" value="0" />
+      <option name="lastDate" value="0" />
+    </fixesStatsTag>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Code -&gt; Comment with Line Comment" count="1" />
+      <entry path="Edit -&gt; Convert Indents -&gt; To Spaces" count="1" />
+      <entry path="Edit -&gt; Duplicate Line or Selection" count="1" />
+      <entry path="Edit -&gt; Macros -&gt; Start/Stop Macro Recording" count="1" />
+      <entry path="File -&gt; Exit" count="1" />
+      <entry path="File -&gt; File Encoding" count="1" />
+      <entry path="File -&gt; Import Settings..." count="6" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="1" />
+      <entry path="File -&gt; Line Separators -&gt; Toggle Read-Only Attribute" count="1" />
+      <entry path="File -&gt; New Project..." count="7" />
+      <entry path="File -&gt; New Scratch File" count="2" />
+      <entry path="File -&gt; New..." count="19" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="16" />
+      <entry path="File -&gt; Open..." count="9" />
+      <entry path="File -&gt; Save All" count="1" />
+      <entry path="File -&gt; Settings Repository…" count="2" />
+      <entry path="File -&gt; Settings for New Projects..." count="4" />
+      <entry path="File -&gt; Settings..." count="20" />
+      <entry path="Help -&gt; About" count="1" />
+      <entry path="Help -&gt; Getting Started" count="1" />
+      <entry path="Navigate -&gt; Back" count="1" />
+      <entry path="Navigate -&gt; Class..." count="1" />
+      <entry path="Navigate -&gt; Forward" count="1" />
+      <entry path="Navigate -&gt; Previous Occurrence" count="1" />
+      <entry path="Run -&gt; Run" count="3" />
+      <entry path="Tools -&gt; Create setup.py" count="1" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="1" />
+      <entry path="VCS -&gt; Local History -&gt; Put Label..." count="1" />
+      <entry path="VCS -&gt; VCS Operations Popup..." count="1" />
+      <entry path="View -&gt; Bidi Text Direction -&gt; Left-to-Right" count="1" />
+      <entry path="View -&gt; Quick Definition" count="1" />
+      <entry path="View -&gt; Quick Switch Scheme..." count="1" />
+      <entry path="View -&gt; Toggle Distraction Free mode" count="2" />
+      <entry path="View -&gt; Toggle Full Screen mode" count="2" />
+      <entry path="View -&gt; Toggle Presentation mode" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Quick Definition" count="1" />
+      <entry path="Window -&gt; Background Tasks -&gt; Auto Show" count="1" />
+      <entry path="Window -&gt; Background Tasks -&gt; Show" count="1" />
+      <entry path="Window -&gt; Restore Default Layout" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="4815" />
+      <entry shortcut="Context Menu" count="4" />
+      <entry shortcut="Ctrl+3" count="2" />
+      <entry shortcut="Ctrl+A" count="24" />
+      <entry shortcut="Ctrl+Backspace" count="2" />
+      <entry shortcut="Ctrl+C" count="82" />
+      <entry shortcut="Ctrl+F1" count="2" />
+      <entry shortcut="Ctrl+F11" count="2" />
+      <entry shortcut="Ctrl+N" count="4" />
+      <entry shortcut="Ctrl+S" count="2" />
+      <entry shortcut="Ctrl+Shift+P" count="1" />
+      <entry shortcut="Ctrl+Slash" count="4" />
+      <entry shortcut="Ctrl+T" count="1" />
+      <entry shortcut="Ctrl+V" count="116" />
+      <entry shortcut="Ctrl+X" count="5" />
+      <entry shortcut="Ctrl+Y" count="9" />
+      <entry shortcut="Ctrl+Z" count="204" />
+      <entry shortcut="Delete" count="13" />
+      <entry shortcut="Down" count="646" />
+      <entry shortcut="End" count="1" />
+      <entry shortcut="Enter" count="1338" />
+      <entry shortcut="F11" count="5" />
+      <entry shortcut="F12" count="1" />
+      <entry shortcut="F9" count="1" />
+      <entry shortcut="Home" count="2" />
+      <entry shortcut="Insert" count="6" />
+      <entry shortcut="Left" count="778" />
+      <entry shortcut="Page Up" count="1" />
+      <entry shortcut="Right" count="1183" />
+      <entry shortcut="Shift+Backspace" count="7" />
+      <entry shortcut="Shift+Enter" count="4" />
+      <entry shortcut="Shift+Left" count="1" />
+      <entry shortcut="Shift+Shift" count="1" />
+      <entry shortcut="Tab" count="1" />
+      <entry shortcut="Up" count="826" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="Ascad" values="CVS" collectionTime="1578494208021" />
+    </group>
+    <group name="py-interpreter">
+      <project id="Mus" values="Python 3.7.0 [virtualenv]" collectionTime="1577949298542" />
+      <project id="me" values="Python 3.7.0 [virtualenv]" collectionTime="1577347341050" />
+      <project id="testing" values="Python 3.7.0 [virtualenv]" collectionTime="1578146136364" />
+      <project id="Ascad" values="Python 3.7.0" collectionTime="1578494208051" />
+      <project id="Ascad1" values="Python 3.7.0 [virtualenv]" collectionTime="1578492564088" />
+      <project id="PycharmProjects" values="Python 3.7.0 [virtualenv]" collectionTime="1576041340572" />
+    </group>
+    <group name="file-type">
+      <project id="Mus" values="Python" collectionTime="1577949298542" />
+      <project id="me" values="Python" collectionTime="1577347341050" />
+      <project id="testing" values="Python" collectionTime="1578146136364" />
+      <project id="Ascad" values="Python" collectionTime="1578494208050" />
+      <project id="Ascad1" values="Python" collectionTime="1578492564083" />
+      <project id="PycharmProjects" values="Python" collectionTime="1576041340572" />
+    </group>
+    <group name="vcs-options">
+      <project id="Mus" values="offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,perform.checkout.in.background.enabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,commit.before.check.code.smell.disabled,include.text.into.shelf.enabled,commit.before.check.non.empty.comment.disabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,commit.before.check.code.cleanup.disabled,perform.commit.in.background.enabled,changelist.preselect.existing.disabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,changelist.make.new.active.disabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,commit.use.right.margin.enabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,perform.edit.in.background.enabled,check.conflicts.in.background.disabled" collectionTime="1577949298417" />
+      <project id="me" values="perform.edit.in.background.enabled,commit.before.check.todo.enabled,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,commit.before.check.code.smell.disabled,commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.rearrange.disabled,commit.before.check.code.cleanup.disabled,show.changes.preview.disabled,perform.checkout.in.background.enabled,changelist.preselect.existing.disabled,commit.before.optimize.imports.disabled,perform.commit.in.background.enabled,perform.update.in.background.enabled,commit.before.reformat.project.disabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,include.text.into.shelf.enabled,perform.rollback.in.background.disabled,offer.move.partially.committed.disabled,check.conflicts.in.background.disabled,commit.before.check.non.empty.comment.disabled,changelist.make.new.active.disabled" collectionTime="1577347341035" />
+      <project id="testing" values="commit.before.check.code.cleanup.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.rearrange.disabled,show.changes.preview.disabled,commit.before.check.todo.enabled,commit.show.unversioned.enabled,commit.before.optimize.imports.disabled,perform.checkout.in.background.enabled,include.text.into.shelf.enabled,commit.before.check.code.smell.disabled,perform.update.in.background.enabled,offer.move.partially.committed.disabled,offer.remove.empty.changelist.show_confirmation,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled,perform.commit.in.background.enabled,commit.use.right.margin.enabled,commit.clear.initial.comment.disabled,perform.edit.in.background.enabled,perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled" collectionTime="1578146136364" />
+      <project id="Ascad" values="commit.use.right.margin.enabled,perform.rollback.in.background.disabled,perform.commit.in.background.enabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,perform.update.in.background.enabled,commit.before.check.code.smell.disabled,changelist.preselect.existing.disabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,commit.before.check.todo.enabled,changelist.make.new.active.disabled,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,commit.before.rearrange.disabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled,offer.move.failed.committed.do_nothing_silently" collectionTime="1578494208017" />
+      <project id="Ascad1" values="perform.checkout.in.background.enabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,commit.before.optimize.imports.disabled,changelist.make.new.active.disabled,commit.clear.initial.comment.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.smell.disabled,commit.before.check.todo.enabled,offer.move.failed.committed.do_nothing_silently,commit.show.unversioned.enabled,commit.before.check.code.cleanup.disabled,perform.edit.in.background.enabled,include.text.into.shelf.enabled,perform.add_remove.in.background.enabled,commit.use.right.margin.enabled,perform.update.in.background.enabled,commit.before.check.non.empty.comment.disabled,changelist.preselect.existing.disabled,perform.rollback.in.background.disabled,commit.before.rearrange.disabled,perform.commit.in.background.enabled" collectionTime="1578492563786" />
+      <project id="PycharmProjects" values="commit.before.check.code.smell.disabled,commit.show.unversioned.enabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,perform.checkout.in.background.enabled,offer.move.partially.committed.disabled,check.conflicts.in.background.disabled,perform.update.in.background.enabled,offer.remove.empty.changelist.show_confirmation,perform.commit.in.background.enabled,commit.before.check.code.cleanup.disabled,offer.move.failed.committed.do_nothing_silently,perform.add_remove.in.background.enabled,show.changes.preview.disabled,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,changelist.make.new.active.disabled,include.text.into.shelf.enabled,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,perform.rollback.in.background.disabled" collectionTime="1576041340525" />
+    </group>
+    <group name="module type">
+      <project id="Mus" values="PYTHON_MODULE" collectionTime="1577949298542" />
+      <project id="me" values="PYTHON_MODULE" collectionTime="1577347341050" />
+      <project id="testing" values="PYTHON_MODULE" collectionTime="1578146136364" />
+      <project id="Ascad" values="PYTHON_MODULE" collectionTime="1578494208050" />
+      <project id="Ascad1" values="PYTHON_MODULE" collectionTime="1578492564085" />
+      <project id="PycharmProjects" values="PYTHON_MODULE" collectionTime="1576041340572" />
+    </group>
+    <group name="vcs-stats">
+      <project id="Mus" values="vcs.roots.count.0,ignored.files.count.0,has.default.vcs.root.mapping.enabled,active.changelists.count.1,unversioned.files.count.0" collectionTime="1577949298417" />
+      <project id="me" values="unversioned.files.count.0,active.changelists.count.1,ignored.files.count.0,has.default.vcs.root.mapping.enabled,vcs.roots.count.0" collectionTime="1577347341035" />
+      <project id="testing" values="active.changelists.count.1,has.default.vcs.root.mapping.enabled,ignored.files.count.0,unversioned.files.count.0,vcs.roots.count.0" collectionTime="1578146136364" />
+      <project id="Ascad" values="active.changelists.count.1,ignored.files.count.1,vcs.roots.count.0,has.default.vcs.root.mapping.enabled,unversioned.files.count.100+" collectionTime="1578494208020" />
+      <project id="Ascad1" values="ignored.files.count.0,has.default.vcs.root.mapping.enabled,vcs.roots.count.0,unversioned.files.count.0,active.changelists.count.1" collectionTime="1578492563788" />
+      <project id="PycharmProjects" values="ignored.files.count.0,unversioned.files.count.0,vcs.roots.count.0,has.default.vcs.root.mapping.enabled,active.changelists.count.1" collectionTime="1576041340525" />
+    </group>
+  </component>
+  <component name="ToolWindowCollector">
+    <counts>
+      <entry toolWindow="Debug by Activation" count="9" />
+      <entry toolWindow="Find by Activation" count="1" />
+      <entry toolWindow="Project by Activation" count="68" />
+      <entry toolWindow="Python Console by Activation" count="12" />
+      <entry toolWindow="Run by Activation" count="377" />
+      <entry toolWindow="TODO by Activation" count="4" />
+      <entry toolWindow="Terminal by Activation" count="6" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CheckinProject@NavBarToolbar" count="1" />
+      <entry action="EvaluateExpression@DebuggerToolbar" count="1" />
+      <entry action="Pause@DebuggerToolbar" count="1" />
+      <entry action="Print@RunnerToolbar" count="1" />
+      <entry action="Rerun@DebuggerToolbar" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="27" />
+      <entry action="Run@NavBarToolbar" count="79" />
+      <entry action="RunConfiguration@NavBarToolbar" count="23" />
+      <entry action="Show Options@ToolWindowHeader" count="5" />
+      <entry action="StartStopMacroRecording@StatusBarPlace" count="1" />
+      <entry action="StepOver@DebuggerToolbar" count="9" />
+      <entry action="Stop@DebuggerToolbar" count="2" />
+      <entry action="Stop@NavBarToolbar" count="1" />
+      <entry action="XDebugger.NewWatch@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="2" />
+      <entry action="com.intellij.execution.console.ConsoleExecuteAction@PydevConsoleRunner" count="3" />
+      <entry action="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction@PydevConsoleRunner" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.ide.actions.CollapseAllToolbarAction@ToolwindowTitle" count="2" />
+      <entry action="com.intellij.ide.actions.ContextHelpAction@PydevConsoleRunner" count="1" />
+      <entry action="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction@ToolwindowTitle" count="7" />
+      <entry action="com.intellij.ide.todo.SetTodoFilterAction@TodoViewToolbar" count="1" />
+      <entry action="com.intellij.ide.todo.TodoPanel$3@TodoViewToolbar" count="1" />
+      <entry action="com.intellij.ide.todo.TodoPanel$MyPreviewAction@TodoViewToolbar" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="3" />
+      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="234" />
+      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction@ToolwindowTitle" count="5" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="7" />
+      <entry action="com.intellij.webcore.packaging.InstalledPackagesPanel$4@ToolbarDecorator" count="2" />
+      <entry action="com.intellij.webcore.packaging.ManagePackagesDialog$1@ToolbarDecorator" count="2" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$RestartAction@PydevConsoleRunner" count="1" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$SoftWrapAction@PydevConsoleRunner" count="1" />
+      <entry action="com.jetbrains.python.packaging.ui.PyInstalledPackagesPanel$2@ToolbarDecorator" count="2" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Pure Python" count="7" />
+      <entry feature="CreateFile.CreateFileAction" count="4" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="7" />
+      <entry feature="execute.PythonConfigurationType.Run" count="352" />
+      <entry feature="ide.help.Colorblind_Settings" count="1" />
+      <entry feature="ide.help.interactive_console" count="1" />
+      <entry feature="ide.help.select.path.dialog" count="2" />
+      <entry feature="ide.settings.Appearance" count="10" />
+      <entry feature="ide.settings.Code Style" count="1" />
+      <entry feature="ide.settings.File Colors" count="1" />
+      <entry feature="ide.settings.Project Interpreter" count="6" />
+      <entry feature="ideaapp.started" count="26" />
+      <entry feature="project.view.pane.ProjectPane" count="1" />
+      <entry feature="project.view.pane.Scope.Scope  Problems   set Problems  class com.intellij.psi.search.scope.ProblemsScope" count="1" />
+      <entry feature="project.view.pane.Scope.Scope  Project Files   set Project Files  class com.intellij.psi.search.scope.ProjectFilesScope" count="2" />
+      <entry feature="python.console.local" count="16" />
+      <entry feature="terminal.win" count="3" />
+      <entry feature="tips.of.the.day.next" count="45" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>

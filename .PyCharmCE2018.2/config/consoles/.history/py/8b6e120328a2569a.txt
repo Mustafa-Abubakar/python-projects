@@ -1,0 +1,1 @@
+runfile('C:/Users/User/Ascad/Snake Game.py', wdir='C:/Users/User/Ascad')

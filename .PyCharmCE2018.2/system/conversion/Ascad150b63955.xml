@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\User\Ascad1\.idea\Ascad1.iml" timestamp="1576041522677" />
+    <file path="C:\Users\User\Ascad1\.idea\codeStyles\codeStyleConfig.xml" timestamp="1577884999578" />
+    <file path="C:\Users\User\Ascad1\.idea\misc.xml" timestamp="1576041522787" />
+    <file path="C:\Users\User\Ascad1\.idea\modules.xml" timestamp="1576039749609" />
+    <file path="C:\Users\User\Ascad1\.idea\workspace.xml" timestamp="1578494773345" />
+  </project-files>
+</conversion>
+
